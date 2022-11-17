@@ -5,6 +5,6 @@
     "\\WebApiEscuela\\Controllers",
     "\\WebApiEscuela\\Data"
   ],
-  "SelectedNode": "\\WebApiEscuela\\Controllers\\ProfesorController.cs",
+  "SelectedNode": "\\WebApiEscuela\\Data\\DBEscuelaAPIContext.cs",
   "PreviewInSolutionExplorer": false
 }
