@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vy683ZU3R8DwxNkKEs8W/sSRnojjNExbe7EOSqvnEiH2P1Z66aJ5nPqtZzxI9F3VJWuRfbs5rW8MybhY39VoXg==",
+  "dgSpecHash": "rpxeqJnEMXAtw+y8LI7Gur9/ARkD1W1kvWh7aCY3F1ajNGkFtXBd6SmqL4aIQ66YPrpcPjBhQv/H1crPAO1Sig==",
   "success": true,
-  "projectFilePath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\DemoEscuela\\WebApiEscuela\\WebApiEscuela.csproj",
+  "projectFilePath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\2-DemoEscuela\\WebApiEscuela\\WebApiEscuela.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Flor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Flor\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
