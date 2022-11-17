@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\WebApiEscuela",
+    "\\WebApiEscuela\\Controllers",
     "\\WebApiEscuela\\Data"
   ],
-  "SelectedNode": "\\WebApiEscuela\\Data\\DBEscuelaAPIContext.cs",
+  "SelectedNode": "\\WebApiEscuela\\Controllers\\ProfesorController.cs",
   "PreviewInSolutionExplorer": false
 }

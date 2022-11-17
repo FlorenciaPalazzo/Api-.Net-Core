@@ -2,7 +2,7 @@
 
 namespace WebApiEscuela.Migrations
 {
-    public partial class crearBaseDeDatos : Migration
+    public partial class createdatabase : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -10,7 +10,8 @@ namespace WebApiEscuela.Migrations
                 name: "Alumnos",
                 columns: table => new
                 {
-                    Id = table.Column<string>(nullable: false),
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Nombre = table.Column<string>(nullable: true),
                     Apellido = table.Column<string>(nullable: true),
                     Matricula = table.Column<string>(nullable: true)

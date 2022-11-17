@@ -20,8 +20,10 @@ namespace WebApiEscuela.Migrations
 
             modelBuilder.Entity("WebApiEscuela.Models.Alumno", b =>
                 {
-                    b.Property<string>("Id")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Apellido")
                         .HasColumnType("nvarchar(max)");

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using WebApiEscuela.Data;
@@ -17,6 +18,8 @@ namespace WebApiEscuela.Controllers
         {
             this.Context = context;
         }
+
+
         //TRAER TODOS
         [HttpGet]
         public List<Alumno> Get()
@@ -28,7 +31,7 @@ namespace WebApiEscuela.Controllers
         }
 
         //TRAER UNO
-        [HttpGet]
+        [HttpGet("{id}")]
         public Alumno Get(int id)
         {
             //EF
@@ -53,6 +56,25 @@ namespace WebApiEscuela.Controllers
             {
                 return BadRequest();
             }
+             Context.Entry(alumno).State = EntityState.Modified;
+             Context.SaveChanges();
+             return NoContent();
+        }
+
+        //DELETE
+        [HttpDelete("{id}")]
+        public ActionResult<Alumno> Delete(int id)
+        {
+            //EF
+            var alumno = Context.Alumnos.Find(id);
+            if (alumno == null)
+            {
+                return NotFound();
+            }
+            Context.Alumnos.Remove(alumno);
+            Context.SaveChanges();
+            return alumno;
+
         }
     }
 }

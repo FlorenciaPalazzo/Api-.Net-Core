@@ -66,6 +66,7 @@ namespace WebApiEscuela.Controllers
             return NoContent();
         }
 
+        //DELETE
         [HttpDelete("{id}")]
         public ActionResult<Profesor> Delete(int id)
         {
