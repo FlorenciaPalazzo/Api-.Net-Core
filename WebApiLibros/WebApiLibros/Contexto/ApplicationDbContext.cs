@@ -6,6 +6,6 @@ namespace WebApiLibros.Contexto
     public class ApplicationDbContext:DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options):base(options) { }
-        DbSet<Autor>Autores { get; set; }
+        public DbSet<Autor>Autores { get; set; }
     }
 }

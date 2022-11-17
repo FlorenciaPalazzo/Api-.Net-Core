@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApiEscuela",
+    "\\WebApiEscuela\\Data"
   ],
-  "SelectedNode": "\\DemoEscuela.sln",
+  "SelectedNode": "\\WebApiEscuela\\Data\\DBEscuelaAPIContext.cs",
   "PreviewInSolutionExplorer": false
 }
