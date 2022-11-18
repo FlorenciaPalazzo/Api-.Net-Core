@@ -44,12 +44,12 @@ namespace WebApiNorthwind.Controllers
         }
 
         //TODO
-        [HttpGet("{companyName}/{contacName}")]
+        [HttpGet("{companyName}/{contactName}")]
         public dynamic Get(string companyName, string contactName)
         {
             dynamic customers = (from c in _context.Customers
                                  where c.CompanyName == companyName && c.ContactName == contactName
-                                 select new {c.CompanyName, c.ContactName, c.ContactTitle,c.Phone});
+                                 select new {c.CompanyName, c.ContactName, c.ContactTitle,c.Phone}).SingleOrDefault();
             if (customers == null)
             {
                 NotFound();

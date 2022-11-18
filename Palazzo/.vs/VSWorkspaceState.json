@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WSAuto",
+    "\\WSAuto\\Controllers",
+    "\\WSAuto\\Modelos"
   ],
-  "SelectedNode": "\\Palazzo.sln",
+  "SelectedNode": "\\WSAuto\\Controllers\\AutoController.cs",
   "PreviewInSolutionExplorer": false
 }
