@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7IgiJVYoq544DF+T83WqfbeLl19HrxqlKR2F8fBzgfKkydwXqIdh/UGhxY4kKuEJxMd2iIlDNTUmrCWpoJc/Qw==",
+  "dgSpecHash": "dQtRlmHpVL6ZWEhgTlT2CfIG/grl5B79TQ9sxSgqLnJqDRbIxf3g6XjatTcOyxX58ZHjnxOvbcNhYC/Nykdbyw==",
   "success": true,
-  "projectFilePath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\WebApiNorthwind\\WebApiNorthwind\\WebApiNorthwind.csproj",
+  "projectFilePath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\5-WebApiNorthwind\\WebApiNorthwind\\WebApiNorthwind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Flor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Flor\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

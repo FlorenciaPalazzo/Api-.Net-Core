@@ -5956,11 +5956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\WebApiNorthwind\\WebApiNorthwind\\WebApiNorthwind.csproj",
+      "projectUniqueName": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\5-WebApiNorthwind\\WebApiNorthwind\\WebApiNorthwind.csproj",
       "projectName": "WebApiNorthwind",
-      "projectPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\WebApiNorthwind\\WebApiNorthwind\\WebApiNorthwind.csproj",
+      "projectPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\5-WebApiNorthwind\\WebApiNorthwind\\WebApiNorthwind.csproj",
       "packagesPath": "C:\\Users\\Flor\\.nuget\\packages\\",
-      "outputPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\WebApiNorthwind\\WebApiNorthwind\\obj\\",
+      "outputPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\5-WebApiNorthwind\\WebApiNorthwind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

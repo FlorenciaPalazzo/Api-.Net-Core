@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Security.Policy;
 using WebApiNorthwind.Models;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApiNorthwind.Controllers
 {
@@ -41,14 +42,14 @@ namespace WebApiNorthwind.Controllers
             }
             return customer;
         }
-
-        [HttpGet("{id}/{companyName}/{contacName}")]
-        public dynamic Get(string id, string companyName, string contactName)
+        //TODO
+        [HttpGet("{companyName}/{contacName}")]
+        public dynamic Get(string companyName, string contactName)
         {
             dynamic customers = (from c in _context.Customers
-                                 where c.CustomerId == id && c.CompanyName == companyName && c.ContactName == contactName
+                                 where c.CompanyName == companyName && c.ContactName == contactName
                                  select new {c.CompanyName, c.ContactName, c.ContactTitle,c.Phone});
-            if (id == null)
+            if (customers == null)
             {
                 NotFound();
             }
@@ -63,14 +64,31 @@ namespace WebApiNorthwind.Controllers
             return Ok();
         }
 
-        //[HttpPut]
-        //public ActionResult Customer Put(string id, Customer customer)
-        //{
-        //    if (id != customer.CustomerId)
-        //    {
-        //        return BadRequest();
-        //    }
-        //}
+        [HttpPut("{id}")]
+        public ActionResult  Put(string id, Customer customer)
+        {
+            if (id != customer.CustomerId)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(customer).State = EntityState.Modified;
+            _context.SaveChanges();
+            return Ok();
+        }
+        [HttpDelete("{id}")]
+        public  Customer Delete(string id)
+        {
+            Customer customerDelete = _context.Customers.Find(id);
+            if (customerDelete == null)
+            {
+                BadRequest();
+
+            }
+            _context.Customers.Remove(customerDelete);
+            _context.SaveChanges();
+            return customerDelete; 
+        }
 
     }
 }
