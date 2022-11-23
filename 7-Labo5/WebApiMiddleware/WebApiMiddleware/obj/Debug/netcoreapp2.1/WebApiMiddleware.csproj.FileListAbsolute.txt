@@ -1,0 +1,30 @@
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.deps.json
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.runtimeconfig.json
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.runtimeconfig.dev.json
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.dll
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.pdb
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.csprojAssemblyReference.cache
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.csproj.CoreCompileInputs.cache
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.RazorAssemblyInfo.cache
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.RazorAssemblyInfo.cs
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.AssemblyInfoInputs.cache
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.AssemblyInfo.cs
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.RazorTargetAssemblyInfo.cache
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.dll
+C:\EducacionIT\Manual WebApi\Descargas\Clase5\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.pdb
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.deps.json
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.runtimeconfig.json
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.runtimeconfig.dev.json
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.dll
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\bin\Debug\netcoreapp2.1\WebApiMiddleware.pdb
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.csproj.AssemblyReference.cache
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.AssemblyInfoInputs.cache
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.AssemblyInfo.cs
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.csproj.CoreCompileInputs.cache
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.RazorAssemblyInfo.cache
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.RazorAssemblyInfo.cs
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.RazorTargetAssemblyInfo.cache
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.dll
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.pdb
+E:\7-Accenture .Net\Api .NetCore\trabajos\Labo5\WebApiMiddleware_Inicial\WebApiMiddleware\obj\Debug\netcoreapp2.1\WebApiMiddleware.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj": {}
+    "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\6-StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj": {}
   },
   "projects": {
-    "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj": {
+    "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\6-StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj",
+        "projectUniqueName": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\6-StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj",
         "projectName": "StoreWebApi-LabAlumni",
-        "projectPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj",
+        "projectPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\6-StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj",
         "packagesPath": "C:\\Users\\Flor\\.nuget\\packages\\",
-        "outputPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\obj\\",
+        "outputPath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\6-StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

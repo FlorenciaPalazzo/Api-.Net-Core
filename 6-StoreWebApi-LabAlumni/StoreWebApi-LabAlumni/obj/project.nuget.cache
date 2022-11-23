@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZ8L5akP6RiJaPm29Jrjl+k9PZi/QWapwzyhPAKCCCY+yC9HexIXe8vMsaesJBMDPJtnChT4/JuMZiZ33Cfc/w==",
+  "dgSpecHash": "xwJ0hFwWsM81WxmRID+ZoeuTNbgtHMh5mmSTY0K7TPD7/Q2x+SCPcMq5S0wAqDiIAUkpK8a6Dm9WXj4kHUUjbQ==",
   "success": true,
-  "projectFilePath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj",
+  "projectFilePath": "E:\\7-Accenture .Net\\Api .NetCore\\trabajos\\6-StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni\\StoreWebApi-LabAlumni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Flor\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Flor\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
